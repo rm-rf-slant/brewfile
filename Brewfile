@@ -93,6 +93,7 @@ brew "sipcalc"
 brew "slackcat"
 brew "stoken"
 brew "terraform"
+brew "tfenv"
 brew "the_silver_searcher"
 brew "tig"
 brew "tmux", args: ["HEAD"]
