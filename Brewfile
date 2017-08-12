@@ -145,9 +145,23 @@ brew "wrk"
 brew "xz"
 brew "yajl"
 
+## GUI application (dir: /Applications/*)
+cask "disk-inventory-x"
+cask "docker"
+cask "duet"
+cask "google-chrome"
+cask "google-japanese-ime"
+cask "iterm2"
 cask "java"
+cask "licecap"
+cask "macs-fan-control"
+cask "securid"
+cask "tunnelblick"
+cask "vagrant"
+cask "virtualbox"
+cask "visual-studio-code"
 
-## Mac App
+## Application of mac app store
 mas "Air Display", id: 419449718
 mas "Alfred", id: 405843582
 mas "Deckset", id: 847496013
