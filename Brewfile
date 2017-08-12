@@ -137,6 +137,7 @@ brew "unibilium"
 brew "utf8proc"
 brew "vegeta"
 brew "vim", args: ["with-lua"]
+brew "wallpaper"
 brew "watch"
 brew "webp"
 brew "wget"
