@@ -168,4 +168,3 @@ mas "Deckset", id: 847496013
 mas "Evernote", id: 406056744
 mas "LINE", id: 539883307
 mas "Slack", id: 803453959
-mas "Xcode", id: 497799835
