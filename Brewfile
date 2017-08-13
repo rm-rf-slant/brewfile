@@ -146,16 +146,18 @@ brew "xz"
 brew "yajl"
 
 ## GUI application (dir: /Applications/*)
+cask "alfred"
 cask "disk-inventory-x"
 cask "docker"
+cask "dropbox"
 cask "duet"
+cask "evernote"
 cask "google-chrome"
 cask "google-japanese-ime"
 cask "iterm2"
 cask "java"
 cask "licecap"
 cask "macs-fan-control"
-cask "securid"
 cask "tunnelblick"
 cask "vagrant"
 cask "virtualbox"
@@ -163,8 +165,6 @@ cask "visual-studio-code"
 
 ## Application of mac app store
 mas "Air Display", id: 419449718
-mas "Alfred", id: 405843582
 mas "Deckset", id: 847496013
-mas "Evernote", id: 406056744
 mas "LINE", id: 539883307
 mas "Slack", id: 803453959
