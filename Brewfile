@@ -30,8 +30,6 @@ tap "homebrew/python"
 
 ## homebrew/science
 tap "homebrew/science"
-brew "homebrew/science/opencv"
-brew "homebrew/science/pillow"
 
 ## neovim/neovim
 tap "neovim/neovim"
@@ -123,7 +121,6 @@ brew "pyenv-virtualenv"
 brew "rbenv-gemset"
 brew "redis"
 brew "rethinkdb"
-brew "rpm"
 brew "ruby-build"
 brew "sbt"
 brew "scalaenv"
