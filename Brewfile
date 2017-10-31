@@ -175,6 +175,7 @@ cask "visual-studio-code"
 
 ## Application of mac app store
 mas "Air Display", id: 419449718
+mas "Art Text 3", id: 1084658654
 mas "Deckset", id: 847496013
 mas "LINE", id: 539883307
 mas "Slack", id: 803453959
