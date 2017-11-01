@@ -72,7 +72,7 @@ brew "git"
 brew "glib"
 brew "gmp"
 brew "gnutls"
-brew "go"
+brew "goenv"
 brew "graphviz"
 brew "htop-osx"
 brew "hub", args: ["HEAD"]
