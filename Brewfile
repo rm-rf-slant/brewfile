@@ -35,6 +35,11 @@ tap "homebrew/science"
 tap "neovim/neovim"
 brew "neovim"
 
+## sanemat/font
+tap "sanemat/font"
+cask "xquartz"
+brew "ricty"
+
 # other homebrew packages
 ## GPG (GNU Privacy Guard)
 brew "adns"
@@ -114,6 +119,7 @@ brew "numpy"
 brew "oniguruma"
 brew "openexr"
 brew "ossp-uuid"
+brew "pkg-config"
 brew "pcre"
 brew "pdsh"
 brew "pixman"
