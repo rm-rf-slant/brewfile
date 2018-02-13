@@ -35,6 +35,9 @@ tap "homebrew/science"
 tap "neovim/neovim"
 brew "neovim"
 
+## ngrok
+cask "ngrok"
+
 ## sanemat/font
 tap "sanemat/font"
 cask "xquartz"
