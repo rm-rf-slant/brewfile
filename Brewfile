@@ -174,6 +174,7 @@ brew "yajl"
 ## GUI application (dir: /Applications/*)
 cask "alfred"
 cask "appcleaner"
+cask "boostnote"
 cask "disk-inventory-x"
 cask "docker"
 cask "dropbox"
