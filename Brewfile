@@ -95,6 +95,7 @@ brew "htop-osx"
 brew "hub", args: ["HEAD"]
 brew "icu4c"
 brew "ilmbase"
+brew "imagemagick"
 brew "isl"
 brew "jemalloc"
 brew "jpeg"
