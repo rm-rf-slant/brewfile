@@ -3,10 +3,6 @@
 tap "argon/mas"
 brew "argon/mas/mas"
 
-## argon/k
-tap "aspnet/k"
-brew "kvm"
-
 ## caskroom/cask
 tap "caskroom/cask"
 brew "brew-cask-completion"
@@ -64,6 +60,7 @@ brew "bash-completion"
 brew "berkeley-db"
 brew "cmake"
 brew "colordiff"
+brew "circleci"
 brew "csshx"
 brew "ctags"
 brew "ctop"
