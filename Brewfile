@@ -194,8 +194,6 @@ cask "java"
 cask "licecap"
 cask "macs-fan-control"
 cask "tunnelblick"
-cask "vagrant"
-cask "virtualbox"
 cask "visual-studio-code"
 cask "xrg"
 
