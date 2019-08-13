@@ -1,41 +1,30 @@
 # tap repositories and their packages
 ## argon/mas
-tap "argon/mas"
+tap  "argon/mas"
 brew "argon/mas/mas"
 
 ## caskroom/cask
-tap "caskroom/cask"
+tap  "caskroom/cask"
 brew "brew-cask-completion"
 
-## homebrew/binary (hashicorp)
-tap "homebrew/binary"
-brew "packer"
-brew "terraform"
-
 ## homebrew/bundle
-tap "homebrew/bundle"
+tap  "homebrew/bundle"
 
 ## Formula for defining package
-tap "homebrew/core"
+tap  "homebrew/core"
 
 ## All formulae were migrated to Homebrew/homebrew-core or deleted. (deprecated)
 # tap "homebrew/dupes"
 
-## homebrew/python
-tap "homebrew/python"
-
-## homebrew/science
-tap "homebrew/science"
-
 ## neovim/neovim
-tap "neovim/neovim"
+tap  "neovim/neovim"
 brew "neovim"
 
 ## ngrok
 cask "ngrok"
 
 ## sanemat/font
-tap "sanemat/font"
+tap  "sanemat/font"
 cask "xquartz"
 brew "ricty"
 
@@ -129,6 +118,7 @@ brew "numpy"
 brew "oniguruma"
 brew "openexr"
 brew "ossp-uuid"
+brew "packer"
 brew "pkg-config"
 brew "pcre"
 brew "perl"
@@ -156,6 +146,7 @@ brew "slackcat"
 brew "ssh-copy-id"
 brew "stern"
 brew "stoken"
+brew "terraform"
 brew "tfenv"
 brew "the_silver_searcher"
 brew "tig"
