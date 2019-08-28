@@ -190,10 +190,10 @@ cask "visual-studio-code"
 cask "xrg"
 
 ## Application of mac app store
-mas "Air Display", id: 419449718
-mas "Art Text 3", id: 1084658654
-mas "Deckset", id: 847496013
-mas "Fotor Photo Editor", id: 503039729
-mas "LINE", id: 539883307
+mas "Air Display",                 id: 419449718
+mas "Art Text 3",                  id: 1084658654
+mas "Deckset",                     id: 847496013
+mas "Fotor Photo Editor",          id: 503039729
+mas "LINE",                        id: 539883307
 mas "Microsoft Remote Desktop 10", id: 1295203466
-mas "Slack", id: 803453959
+mas "Slack",                       id: 803453959
