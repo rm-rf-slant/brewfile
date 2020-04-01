@@ -3,18 +3,11 @@
 tap  "argon/mas"
 brew "argon/mas/mas"
 
-## caskroom/cask
-tap  "caskroom/cask"
-brew "brew-cask-completion"
-
 ## homebrew/bundle
 tap  "homebrew/bundle"
 
 ## Formula for defining package
 tap  "homebrew/core"
-
-## All formulae were migrated to Homebrew/homebrew-core or deleted. (deprecated)
-# tap "homebrew/dupes"
 
 ## neovim/neovim
 tap  "neovim/neovim"
@@ -47,6 +40,7 @@ brew "automake"
 brew "bash"
 brew "bash-completion"
 brew "berkeley-db"
+brew "brew-cask-completion"
 brew "cmake"
 brew "colordiff"
 brew "circleci"
@@ -72,6 +66,7 @@ brew "genext2fs"
 brew "gettext"
 brew "gibo"
 brew "git"
+brew "github/gh/gh"
 brew "ghq"
 brew "glib"
 brew "gmp"
@@ -109,7 +104,6 @@ brew "libvterm"
 brew "little-cms2"
 brew "lua"
 brew "mobile-shell"
-brew "mongodb"
 brew "mono"
 brew "mpfr"
 brew "msgpack"
@@ -129,7 +123,6 @@ brew "pixman"
 brew "popt"
 brew "protobuf"
 brew "pyenv"
-brew "python@2"
 brew "rbenv"
 brew "pyenv-virtualenv"
 brew "rbenv-gemset"
@@ -157,7 +150,7 @@ brew "tree"
 brew "unibilium"
 brew "utf8proc"
 brew "vegeta"
-brew "vim", args: ["with-lua"]
+brew "vim"
 brew "wallpaper"
 brew "watch"
 brew "webp"
@@ -172,7 +165,6 @@ brew "yajl"
 cask "alfred"
 cask "appcleaner"
 cask "boostnote"
-cask "disk-inventory-x"
 cask "docker"
 cask "dropbox"
 cask "duet"
@@ -192,11 +184,8 @@ cask "visual-studio-code"
 cask "xrg"
 
 ## Application of mac app store
-mas "Air Display",                 id: 419449718
+mas "Air Display",                 id: 419449719
 mas "Art Text 3",                  id: 1084658654
 mas "Deckset",                     id: 847496013
 mas "Fotor Photo Editor",          id: 503039729
-mas "iTeleport: VNC & RDP"         id: 489094439
-mas "LINE",                        id: 539883307
-mas "Microsoft Remote Desktop 10", id: 1295203466
 mas "Slack",                       id: 803453959
