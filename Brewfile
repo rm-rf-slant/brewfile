@@ -165,10 +165,11 @@ brew "yajl"
 cask "alfred"
 cask "appcleaner"
 cask "boostnote"
+cask "discord"
 cask "docker"
 cask "dropbox"
 cask "duet"
-cask "evernote"
+# cask "evernote"
 cask "geektool"
 cask "google-chrome"
 cask "google-cloud-sdk"
@@ -182,10 +183,11 @@ cask "macs-fan-control"
 cask "tunnelblick"
 cask "visual-studio-code"
 cask "xrg"
+cask "zoomus"
 
 ## Application of mac app store
 mas "Air Display",                 id: 419449719
-mas "Art Text 3",                  id: 1084658654
+# mas "Art Text 3",                  id: 1084658654
 mas "Deckset",                     id: 847496013
-mas "Fotor Photo Editor",          id: 503039729
+# mas "Fotor Photo Editor",          id: 503039729
 mas "Slack",                       id: 803453959
