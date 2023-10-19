@@ -80,6 +80,7 @@ brew "htop"
 brew "hub", args: ["HEAD"]
 brew "imagemagick"
 brew "isl"
+brew "istioctl"
 brew "jemalloc"
 brew "jo"
 brew "jpeg-xl"
