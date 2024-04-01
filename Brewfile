@@ -1,6 +1,6 @@
 # Tap repositories and their packages
 ## Formula for defining package
-tap  "homebrew/core"
+tap "homebrew/core"
 
 ## kubesec
 tap "shyiko/kubesec"
@@ -9,6 +9,10 @@ brew "kubesec"
 ## Neovim
 tap  "neovim/neovim"
 brew "neovim"
+
+## Nerd Font
+tap "homebrew/cask-fonts"
+brew "font-hack-nerd-font"
 
 ## Telepresence
 tap "datawire/blackbird"
