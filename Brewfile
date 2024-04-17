@@ -209,6 +209,7 @@ cask "kitty"
 cask "licecap"
 cask "macs-fan-control"
 cask "ngrok"
+cask "obsidian"
 cask "raycast"
 cask "slack"
 cask "visual-studio-code"
@@ -217,9 +218,8 @@ cask "xrg"
 cask "zoom"
 
 # Applications in the Mac App Store
-mas "Bear - プライベートメモ", id: 1091189122
 mas "Keynote", id: 409183694
-mas "LINE", id: 539883307
+mas "LINE",    id: 539883307
 
 # Extensions for Visual Studio Code
 vscode "4ops.terraform"
