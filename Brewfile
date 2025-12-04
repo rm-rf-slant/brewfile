@@ -1,18 +1,10 @@
-# Tap repositories and their packages
-## Formula for defining package
-tap "homebrew/core"
-
-## kubesec
-tap "shyiko/kubesec"
-brew "kubesec"
+## kubesec (https://github.com/shyiko/homebrew-kubesec/issues/1)
+# tap "shyiko/kubesec"
+# brew "kubesec"
 
 ## Neovim
 tap  "neovim/neovim"
 brew "neovim"
-
-## Nerd Font
-tap "homebrew/cask-fonts"
-brew "font-hack-nerd-font"
 
 ## Telepresence
 tap "datawire/blackbird"
@@ -89,7 +81,6 @@ brew "istioctl"
 brew "jemalloc"
 brew "jo"
 brew "jpeg-xl"
-brew "jpeg", link: true
 brew "jq"
 brew "jsonnet"
 brew "k6"
@@ -141,7 +132,6 @@ brew "openldap"
 brew "openssl@1.1"
 brew "ossp-uuid"
 brew "p11-kit"
-brew "packer"
 brew "pango"
 brew "pcre"
 brew "pdsh"
@@ -205,6 +195,7 @@ cask "discord"
 cask "dropbox"
 cask "duet"
 cask "elgato-stream-deck"
+cask "font-hack-nerd-font"
 cask "geektool"
 cask "google-chrome"
 cask "google-cloud-sdk"
